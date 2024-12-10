@@ -9,7 +9,7 @@ ___
 
 <h2 align="center">About me</h2>
 
-Atualmente no quarto ano de Sistemas de Informações na FIAP, e atuando como Estagiário em Análise e Desenvolvimento de Sistemas na THCS Desenvolvimento de Software. Minhas experiências giram em torno das seguintes tecnologias: Java, Spring Boot, SQL, Docker, Linux, HTML, JavaScript, CSS, VUE.js, além de outras ferramentas de testes com Jmeter e Postman e de análise de dados como Excel e Power BI. Tenho conhecimento em metodologias ágeis como SCRUM, KANBAN e suas aplicações. Meus estudos estão direcionados para Java, Spring Boot e SQL ultimamente. Me interesso também na área de Dados.
+Atualmente no quarto ano de Sistemas de Informações na FIAP, e atuando como Estagiário em Análise e Desenvolvimento de Sistemas na THCS Desenvolvimento de Software. Minhas experiências giram em torno das seguintes tecnologias: Java, Spring Boot, SQL, Docker, Linux, HTML, JavaScript, CSS, VUE.js, além de ferramentas de testes como Jmeter e Postman e de análise de dados como Python, Excel e Power BI. Tenho conhecimento em metodologias ágeis como SCRUM, KANBAN e suas aplicações. Meus estudos estão direcionados para Java, Spring Boot e SQL ultimamente. Me interesso também na área de Dados.
 
 &nbsp;
 
