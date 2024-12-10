@@ -46,7 +46,7 @@ Atualmente no quarto ano de Sistemas de Informações na FIAP, e atuando como Es
 <div align="center">
    <a href="https://www.instagram.com/tiagogalcan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="mailto:tiago.gomesalcan@gmail.com?subject=Visualiza%C3%A7%C3%A3o%20de%20perfil%20no%20GitHub&body=Ol%C3%A1%2C%20tudo%20bem%3F%20Vi%20seu%20perfil%20no%20GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="www.linkedin.com/in/tiago-gomes-alcântara-1732362b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/tiago-gomes-alcântara-1732362b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://discord.gg/92t5ZAbF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>                                                            <a     
    <a href="https://teams.live.com/l/invite/FAAH0f6ObRtl2RBWQE" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>                   
 </div>
