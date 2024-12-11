@@ -51,6 +51,4 @@ Atualmente no quarto ano de Sistemas de Informações na FIAP, e atuando como Es
    <a href="https://teams.live.com/l/invite/FAAH0f6ObRtl2RBWQE" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>                   
 </div>
 
-&nbsp;
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3E3E3EFF&textBg=false&section=footer" width=100% />
