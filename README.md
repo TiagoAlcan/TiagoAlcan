@@ -13,7 +13,7 @@ Atualmente no quarto ano de Sistemas de Informações na FIAP, e atuando como Es
 
 &nbsp;
 
-<h2 align="center">Study</h2>
+<h2 align="center">Study | Technology</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
