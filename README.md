@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3E3E3EFF&textBg=false" width=100% />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=300&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&width=800&lines=Ol%C3%A1+seja+bem-vindo+ao+meu+Github!;Meu+nome+%C3%A9+Tiago+Gomes+Alc%C3%A2ntara.;8%C2%B0+Semestre+de+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+FIAP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=300&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&width=800&lines=Ol%C3%A1+seja+bem-vindo+ao+meu+Github!;Meu+nome+%C3%A9+Tiago+Gomes+Alc%C3%A2ntara.;Sistemas+de+Informa%C3%A7%C3%A3o+%7C+FIAP)](https://git.io/typing-svg)
 
 &nbsp;
 ___
@@ -9,7 +9,7 @@ ___
 
 <h2 align="center">About me</h2>
 
-Atualmente no quarto ano de Sistemas de Informações na FIAP, e atuando como Estagiário em Análise e Desenvolvimento de Sistemas na THCS Desenvolvimento de Software. Minhas experiências giram em torno das seguintes tecnologias: Java, Spring Boot, SQL, Docker, Linux, HTML, JavaScript, CSS, VUE.js, além de ferramentas de testes como Jmeter e Postman e de análise de dados como Python, Excel e Power BI. Tenho conhecimento em metodologias ágeis como SCRUM, KANBAN e suas aplicações. Meus estudos estão direcionados para Java, Spring Boot e SQL ultimamente. Me interesso também na área de Dados.
+Formado Sistemas de Informações na FIAP, e atuando como Desenvolvedor Júnior na THCS Desenvolvimento de Software. Minhas experiências giram em torno das seguintes tecnologias: Java, Spring Boot, SQL, Docker, Linux, HTML, JavaScript, CSS, VUE.js, além de ferramentas de testes como Jmeter e Postman e de análise de dados como Python, Excel e Power BI. Tenho conhecimento em metodologias ágeis como SCRUM, KANBAN e suas aplicações. Meus estudos estão direcionados para Java, Spring Boot e SQL ultimamente. Me interesso também na área de Dados.
 
 &nbsp;
 
