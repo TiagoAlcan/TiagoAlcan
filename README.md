@@ -1,6 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3E3E3EFF&textBg=false" width=100% />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3E3E3EFF&textBg=false" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=300&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&width=800&lines=Ol%C3%A1+seja+bem-vindo+ao+meu+Github!;Meu+nome+%C3%A9+Tiago+Gomes+Alc%C3%A2ntara.;Sistemas+de+Informa%C3%A7%C3%A3o+%7C+FIAP)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Code&weight=500&duration=2500&pause=1000&color=F7F7F7&width=435&center=true&vCenter=true&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+Github!;Meu+nome+%C3%A9+Tiago+Gomes+Alc%C3%A2ntara;Sistemas+de+informa%C3%A7%C3%A3o+%7C+FIAP" alt="Typing SVG" />
+  </a>
+</p>
 
 &nbsp;
 ___
