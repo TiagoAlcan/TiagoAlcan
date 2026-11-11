@@ -42,7 +42,7 @@ Procuro oportunidades como **Software Engineer**, **DevOps / Cloud Architect**, 
 | Projeto | Resultado em uma linha | Trilha |
 |---|---|---|
 | **Observabilidade de um autorizador de pagamentos** | Da métrica no código Java ao painel no Grafana, para um sistema com 1M+ transações/dia | DevOps · Data |
-| **MoziCash** | App de finanças pessoais que responde "quanto ainda posso gastar este mês?", com agente de IA. Inspirado no meu TCC. React, FastAPI, Supabase | Software · AI |
+| **[MoziCash](https://mozicash.vercel.app)** | App de finanças pessoais que responde "quanto ainda posso gastar este mês?", com agente de IA. Inspirado no meu TCC. React, FastAPI, Supabase | Software · AI |
 | **Skill de IA para documentação técnica** | O padrão de manuais da empresa codificado em uma skill: qualquer pessoa gera o documento no formato aprovado | AI |
 | **[Infraestrutura AWS com Terraform](https://github.com/TiagoAlcan/fase1_devops_fiap_postech)** | Ambiente descrito em código, com documento de arquitetura. Entrega da pós em DevOps e Cloud | DevOps |
 | **Risco de crédito PJ com grafos** | Iniciação científica entre os 30 melhores: a cadeia de suprimentos de cada empresa como peso no modelo | Data · AI |

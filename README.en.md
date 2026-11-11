@@ -42,7 +42,7 @@ I'm looking for roles as a **Software Engineer**, **DevOps / Cloud Architect**, 
 | Project | Outcome in one line | Track |
 |---|---|---|
 | **Observability for a payment authorizer** | From the metric in Java code to the Grafana dashboard, for a system with 1M+ transactions a day | DevOps · Data |
-| **MoziCash** | Personal finance app that answers "how much can I still spend this month?", with an AI agent. Inspired by my capstone project. React, FastAPI, Supabase | Software · AI |
+| **[MoziCash](https://mozicash.vercel.app)** | Personal finance app that answers "how much can I still spend this month?", with an AI agent. Inspired by my capstone project. React, FastAPI, Supabase | Software · AI |
 | **AI skill for technical documentation** | The company's manual standard encoded as a skill: anyone can generate a document in the approved format | AI |
 | **[AWS infrastructure with Terraform](https://github.com/TiagoAlcan/fase1_devops_fiap_postech)** | An environment described as code, with an architecture document. Coursework for my DevOps and Cloud postgraduate program | DevOps |
 | **Business credit risk with graphs** | Undergraduate research ranked in the top 30: each company's supply chain as a weight in the model | Data · AI |
