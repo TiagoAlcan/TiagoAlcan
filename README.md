@@ -1,111 +1,118 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img src="assets/header-light.svg" width="840" alt="Terminal: whoami → Tiago Alcântara, Software Engineer, São Paulo. Trilhas: software, devops-cloud, data, ai. Lema: make systems visible.">
+    <img src="assets/header-light.svg" width="840" alt="Terminal: whoami → Tiago Alcântara, Software Engineer, São Paulo. Tracks: software, devops-cloud, data, ai. Motto: make systems visible.">
   </picture>
 </p>
 
+<img align="right" src="assets/live-metric.gif" width="300" alt="Animated chart of transactions per second flowing through a system (illustrative data)">
+
+I'm a software engineer at THCS in São Paulo. I'm part of the team that operates a payment authorization system handling **more than 1 million transactions a day**, and my role is mostly on the observability side: the metrics, dashboards and alerts that show what the system is doing.
+
+One idea ties my work together: **make systems visible**. Dashboards a client can read without knowing the query, documentation someone else can follow on their own, tests that become the quality bar.
+
+My interests sit across software engineering, DevOps and cloud architecture, data engineering and AI engineering.
+
+<br clear="right">
+
+## 🧰 Stack
+
 <p align="center">
-  <b>PT-BR</b> · <a href="README.en.md">EN</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/tiagoalcan">LinkedIn</a> ·
-  <a href="mailto:tiago.gomesalcan@gmail.com">tiago.gomesalcan@gmail.com</a>
+  <img src="https://img.shields.io/badge/Java-04261E?style=for-the-badge&logo=openjdk&logoColor=F2EDD5" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-04261E?style=for-the-badge&logo=springboot&logoColor=F2EDD5" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/TypeScript-04261E?style=for-the-badge&logo=typescript&logoColor=F2EDD5" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vue-04261E?style=for-the-badge&logo=vuedotjs&logoColor=F2EDD5" alt="Vue">
+  <img src="https://img.shields.io/badge/Python-04261E?style=for-the-badge&logo=python&logoColor=F2EDD5" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-04261E?style=for-the-badge&logo=postgresql&logoColor=F2EDD5" alt="SQL">
+  <br>
+  <img src="https://img.shields.io/badge/Prometheus-F26716?style=for-the-badge&logo=prometheus&logoColor=04261E" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F26716?style=for-the-badge&logo=grafana&logoColor=04261E" alt="Grafana">
+  <img src="https://img.shields.io/badge/Linux-04261E?style=for-the-badge&logo=linux&logoColor=F2EDD5" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-04261E?style=for-the-badge&logo=docker&logoColor=F2EDD5" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-04261E?style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/Kafka-04261E?style=for-the-badge&logo=apachekafka&logoColor=F2EDD5" alt="Kafka">
+  <img src="https://img.shields.io/badge/RabbitMQ-04261E?style=for-the-badge&logo=rabbitmq&logoColor=F2EDD5" alt="RabbitMQ">
 </p>
 
-Sou engenheiro de software na THCS, em São Paulo. Há mais de três anos construo e opero software em produção em um sistema de autorização de pagamentos que processa **mais de 1 milhão de transações por dia**.
-
-O que liga as minhas entregas é uma ideia simples: **tornar sistemas visíveis**. Painéis que o cliente entende sem ler a consulta, documentação que outra pessoa consegue executar sozinha, testes que viram parâmetro de qualidade.
-
-Procuro oportunidades como **Software Engineer**, **DevOps / Cloud Architect**, **Data Engineer** ou **AI Engineer**.
-
-> Cada linha abaixo é um comando. Clique para ver a saída.
+> Every line below is a command. Click to see its output.
 
 <details open>
-<summary><code>$ cat experiencia.log</code></summary>
+<summary>💼 <code>$ cat experience.log</code></summary>
 
 <br>
 
-**THCS Desenvolvimento de Software** · São Paulo
+**THCS Desenvolvimento de Software** · São Paulo, Brazil
 
-| Período | Cargo | O que entreguei |
+| Period | Role | What I worked on |
 |---|---|---|
-| mar/2025 → hoje | Software Engineer | Monitoramento de ponta a ponta com Prometheus, Grafana e Alertmanager em um sistema com 1M+ transações/dia. Integrações REST com autenticação. Ferramentas internas em TypeScript, Java (Spring Boot) e Vue. Suporte a produção e condução de mudanças junto a grandes instituições financeiras. |
-| mar/2023 → mar/2025 | Estagiário | Deploys padronizados e versionados com Git e DockerHub. Documentação técnica de sistemas e APIs. Testes de API com JMeter e Postman. |
+| Mar 2025 → now | Software Engineer | Observability for a system handling 1M+ transactions a day: Prometheus metrics, PromQL queries, Grafana dashboards and Alertmanager alerts. REST integrations with authentication flows. Internal tools in TypeScript, Java (Spring Boot) and Vue. Production support and change management with large financial institutions. |
+| Mar 2023 → Mar 2025 | Intern | Standardized, version-controlled deployments with Git and DockerHub. Technical documentation for systems and APIs. API testing with JMeter and Postman. |
 
 </details>
 
 <details>
-<summary><code>$ ls projetos/</code></summary>
+<summary>🚀 <code>$ ls projects/</code></summary>
 
 <br>
 
-| Projeto | Resultado em uma linha | Trilha |
+| Project | In one line | Track |
 |---|---|---|
-| **Observabilidade de um autorizador de pagamentos** | Da métrica no código Java ao painel no Grafana, para um sistema com 1M+ transações/dia | DevOps · Data |
-| **[MoziCash](https://mozicash.vercel.app)** | App de finanças pessoais que responde "quanto ainda posso gastar este mês?", com agente de IA. Inspirado no meu TCC. React, FastAPI, Supabase | Software · AI |
-| **Skill de IA para documentação técnica** | O padrão de manuais da empresa codificado em uma skill: qualquer pessoa gera o documento no formato aprovado | AI |
-| **[Infraestrutura AWS com Terraform](https://github.com/TiagoAlcan/fase1_devops_fiap_postech)** | Ambiente descrito em código, com documento de arquitetura. Entrega da pós em DevOps e Cloud | DevOps |
-| **Risco de crédito PJ com grafos** | Iniciação científica entre os 30 melhores: a cadeia de suprimentos de cada empresa como peso no modelo | Data · AI |
-| **[projeto_restart](https://github.com/TiagoAlcan/projeto_restart)** | Do consumo de API e scraping até o dashboard interativo | Data |
+| **Observability for a payment authorizer** | From the metric in Java code to the Grafana dashboard, for a system with 1M+ transactions a day | DevOps · Data |
+| **[MoziCash](https://mozicash.vercel.app)** | Personal finance app that answers "how much can I still spend this month?", with an AI agent. Inspired by my capstone project. React, FastAPI, Supabase | Software · AI |
+| **AI skill for technical documentation** | The company's manual standard encoded as a skill, so anyone can generate a document in the approved format | AI |
+| **[AWS infrastructure with Terraform](https://github.com/TiagoAlcan/fase1_devops_fiap_postech)** | An environment described as code, with an architecture document. Coursework for my DevOps and Cloud postgraduate program | DevOps |
+| **Business credit risk with graphs** | Undergraduate research ranked in the top 30: each company's supply chain as a weight in the model | Data · AI |
+| **[projeto_restart](https://github.com/TiagoAlcan/projeto_restart)** | From API consumption and scraping to an interactive dashboard | Data |
 
 </details>
 
 <details>
-<summary><code>$ cat stack.yaml</code></summary>
+<summary>🗂️ <code>$ cat stack.yaml</code></summary>
 
 <br>
 
-| Trilha | Uso no trabalho | Estudo e projetos |
+| Track | Used at work | Study and projects |
 |---|---|---|
 | **Software** | Java, Spring Boot, TypeScript, JavaScript, Vue, SQL, REST | React, Python, FastAPI |
-| **DevOps e Cloud** | Linux, Shell, Docker, Docker Compose, TeamCity, AWS (EC2, S3, MSK, CloudWatch), Proxmox | Kubernetes, Terraform, GitHub Actions |
-| **Observabilidade** | Prometheus, PromQL, Alertmanager, Grafana | OpenTelemetry |
-| **Data** | SQL, Kafka, RabbitMQ | Pandas, NumPy, Scikit-learn, PySpark, bancos de grafos |
-| **AI** | Skills e automações com Claude | Agentes, integração de LLMs em aplicações |
-| **Qualidade** | JMeter, Postman, Insomnia, BDD | JUnit |
+| **DevOps and Cloud** | Linux, Shell, Docker, Docker Compose, TeamCity, AWS (EC2, S3, MSK, CloudWatch), Proxmox | Kubernetes, Terraform, GitHub Actions |
+| **Observability** | Prometheus, PromQL, Alertmanager, Grafana | OpenTelemetry |
+| **Data** | SQL, Kafka, RabbitMQ | Pandas, NumPy, Scikit-learn, PySpark, graph databases |
+| **AI** | Skills and automations with Claude | Agents, LLM integration in applications |
+| **Quality** | JMeter, Postman, Insomnia, BDD | JUnit |
 
 </details>
 
 <details>
-<summary><code>$ tail -f estudos.log</code></summary>
+<summary>📚 <code>$ tail -f studies.log</code></summary>
 
 <br>
 
-- **Pós-graduação em DevOps e Arquitetura Cloud** (FIAP PosTech) · em andamento. Kubernetes, IaC com Terraform, CI/CD e GitOps, DevSecOps, observabilidade, SRE, FinOps e AIOps.
-- **Bootcamp de Ciência de Dados** (TripleTen) · dez/2025 → dez/2026. Análise de dados, machine learning, deep learning e SQL avançado. [Estudos aqui](https://github.com/TiagoAlcan/Triple-Ten-Data-Science).
-- **Bacharelado em Sistemas de Informação** (FIAP) · 2022 → 2025.
+- **Postgraduate program in DevOps and Cloud Architecture** (FIAP PosTech) · in progress. Kubernetes, IaC with Terraform, CI/CD and GitOps, DevSecOps, observability, SRE, FinOps and AIOps.
+- **Data Science bootcamp** (TripleTen) · Dec 2025 → Dec 2026. Data analysis, machine learning, deep learning and advanced SQL. [Coursework here](https://github.com/TiagoAlcan/Triple-Ten-Data-Science).
+- **B.Sc. in Information Systems** (FIAP) · 2022 → 2025.
 
 </details>
 
 <details>
-<summary><code>$ man curiosidade</code></summary>
+<summary>💡 <code>$ man curiosity</code></summary>
 
 <br>
 
-Coisas que operar um sistema em produção me ensinou a olhar de outro jeito:
+Things working on a production system taught me to see differently:
 
-- **1 milhão por dia parece muito, mas dá uns 12 por segundo.** A média é tranquila. O que derruba um sistema é o pico, e é por isso que um bom painel mostra taxa por janela de tempo em vez de total do dia.
-- **99,9% de disponibilidade ainda são quase 9 horas fora do ar por ano.** Cada "nove" a mais divide esse tempo por dez: 99,99% são 52 minutos.
-- **A média esconde quem está sofrendo.** Com 1 milhão de requisições por dia, o p99 representa 10 mil requisições diárias mais lentas que aquele valor. Alguém está do outro lado de cada uma.
-- **Reiniciar não é recuperar.** Depois que a máquina volta, os serviços precisam subir na ordem certa. Foi isso que me fez escrever scripts para restabelecer aplicações sozinhas.
-- **Se o painel precisa de explicação, ele é um relatório.** Um dashboard bom responde a uma pergunta em cinco segundos.
+- **A million a day sounds like a lot, but it's about 12 per second.** The average is calm. Peaks are what take a system down, which is why a good dashboard shows rate over a time window instead of a daily total.
+- **99.9% availability is still almost 9 hours of downtime a year.** Each extra nine divides that by ten: 99.99% is 52 minutes.
+- **Averages hide who is hurting.** At 1 million requests a day, p99 means 10,000 requests every day were slower than that number. There's a person behind each one.
+- **A restart is not a recovery.** After the machine comes back, services have to start in the right order. That's what got me writing scripts so applications recover on their own.
+- **If a dashboard needs explaining, it's a report.** A good one answers a question in five seconds.
 
 </details>
 
-<details>
-<summary><code>$ ./contato.sh</code></summary>
+## 🌐 Languages
 
-<br>
+🇧🇷 `Portuguese · Native` &nbsp; 🇺🇸 `English · Advanced` &nbsp; 🇪🇸 `Spanish · Intermediate`
 
-- E-mail: [tiago.gomesalcan@gmail.com](mailto:tiago.gomesalcan@gmail.com)
-- LinkedIn: [linkedin.com/in/tiagoalcan](https://www.linkedin.com/in/tiagoalcan)
-- Idiomas: português (nativo), inglês (avançado), espanhol (intermediário)
+## 📬 Contact
 
-</details>
-
-<br>
-
-```console
-$ uptime
-em produção desde março de 2023 · São Paulo, Brasil
-```
+<a href="https://www.linkedin.com/in/tiagoalcan"><img src="https://img.shields.io/badge/LinkedIn-04261E?style=for-the-badge" alt="LinkedIn"></a>
+<a href="mailto:tiago.gomesalcan@gmail.com"><img src="https://img.shields.io/badge/Email-04261E?style=for-the-badge&logo=gmail&logoColor=F2EDD5" alt="Email"></a>
