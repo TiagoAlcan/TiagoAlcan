@@ -11,9 +11,9 @@ I'm a software engineer at THCS in São Paulo. I'm part of the team that operate
 
 One idea ties my work together: **make systems visible**. Dashboards a client can read without knowing the query, documentation someone else can follow on their own, tests that become the quality bar.
 
-<br clear="right">
-
 My interests sit across software engineering, DevOps and cloud architecture, data engineering and AI engineering.
+
+<br clear="right">
 
 ## 🧰 Stack
 
