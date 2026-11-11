@@ -5,15 +5,15 @@
   </picture>
 </p>
 
-<img align="right" src="assets/live-metric.gif" width="300" alt="Animated chart of transactions per second flowing through a system (illustrative data)">
+<img align="right" src="assets/live-metric.gif" width="380" alt="Animated chart of transactions per second flowing through a system (illustrative data)">
 
 I'm a software engineer at THCS in São Paulo. I'm part of the team that operates a payment authorization system handling **more than 1 million transactions a day**, and my role is mostly on the observability side: the metrics, dashboards and alerts that show what the system is doing.
 
 One idea ties my work together: **make systems visible**. Dashboards a client can read without knowing the query, documentation someone else can follow on their own, tests that become the quality bar.
 
-My interests sit across software engineering, DevOps and cloud architecture, data engineering and AI engineering.
-
 <br clear="right">
+
+My interests sit across software engineering, DevOps and cloud architecture, data engineering and AI engineering.
 
 ## 🧰 Stack
 
@@ -116,3 +116,4 @@ Things working on a production system taught me to see differently:
 
 <a href="https://www.linkedin.com/in/tiagoalcan"><img src="https://img.shields.io/badge/LinkedIn-04261E?style=for-the-badge" alt="LinkedIn"></a>
 <a href="mailto:tiago.gomesalcan@gmail.com"><img src="https://img.shields.io/badge/Email-04261E?style=for-the-badge&logo=gmail&logoColor=F2EDD5" alt="Email"></a>
+<a href="https://wa.me/5511994916015"><img src="https://img.shields.io/badge/WhatsApp-04261E?style=for-the-badge&logo=whatsapp&logoColor=F2EDD5" alt="WhatsApp"></a>
