@@ -1,58 +1,111 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3E3E3EFF&textBg=false" width="100%" />
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Code&weight=500&duration=2500&pause=1000&color=F7F7F7&width=435&center=true&vCenter=true&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+Github!;Meu+nome+%C3%A9+Tiago+Gomes+Alc%C3%A2ntara;Sistemas+de+informa%C3%A7%C3%A3o+%7C+FIAP" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="840" alt="Terminal: whoami → Tiago Alcântara, Software Engineer, São Paulo. Trilhas: software, devops-cloud, data, ai. Lema: make systems visible.">
+  </picture>
 </p>
 
-&nbsp;
-___
+<p align="center">
+  <b>PT-BR</b> · <a href="README.en.md">EN</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/tiagoalcan">LinkedIn</a> ·
+  <a href="mailto:tiago.gomesalcan@gmail.com">tiago.gomesalcan@gmail.com</a>
+</p>
 
-&nbsp;
+Sou engenheiro de software na THCS, em São Paulo. Há mais de três anos construo e opero software em produção em um sistema de autorização de pagamentos que processa **mais de 1 milhão de transações por dia**.
 
-<h2 align="center">About me</h2>
+O que liga as minhas entregas é uma ideia simples: **tornar sistemas visíveis**. Painéis que o cliente entende sem ler a consulta, documentação que outra pessoa consegue executar sozinha, testes que viram parâmetro de qualidade.
 
-Formado Sistemas de Informações na FIAP, e atuando como Desenvolvedor Júnior na THCS Desenvolvimento de Software. Minhas experiências giram em torno das seguintes tecnologias: Java, Spring Boot, SQL, Docker, Linux, HTML, JavaScript, CSS, VUE.js, além de ferramentas de testes como Jmeter e Postman e de análise de dados como Python, Excel e Power BI. Tenho conhecimento em metodologias ágeis como SCRUM, KANBAN e suas aplicações. Meus estudos estão direcionados para Java, Spring Boot e SQL ultimamente. Me interesso também na área de Dados.
+Procuro oportunidades como **Software Engineer**, **DevOps / Cloud Architect**, **Data Engineer** ou **AI Engineer**.
 
-&nbsp;
+> Cada linha abaixo é um comando. Clique para ver a saída.
 
-<h2 align="center">Study | Technology</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</div>
+<details open>
+<summary><code>$ cat experiencia.log</code></summary>
 
-&nbsp;
+<br>
 
-<h2 align="center">Github Stats</h2>
-<div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoAlcan&show_icons=true&theme=dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoAlcan&layout=compact&theme=dark"/>
-   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=TiagoAlcan&theme=dark&row=2&column=3&margin-w=15&margin-h=15" />
-</div>
+**THCS Desenvolvimento de Software** · São Paulo
 
-&nbsp;
+| Período | Cargo | O que entreguei |
+|---|---|---|
+| mar/2025 → hoje | Software Engineer | Monitoramento de ponta a ponta com Prometheus, Grafana e Alertmanager em um sistema com 1M+ transações/dia. Integrações REST com autenticação. Ferramentas internas em TypeScript, Java (Spring Boot) e Vue. Suporte a produção e condução de mudanças junto a grandes instituições financeiras. |
+| mar/2023 → mar/2025 | Estagiário | Deploys padronizados e versionados com Git e DockerHub. Documentação técnica de sistemas e APIs. Testes de API com JMeter e Postman. |
 
-<h2 align="center">Social Media</h2>
-<div align="center">
-   <a href="https://www.instagram.com/tiagogalcan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="mailto:tiago.gomesalcan@gmail.com?subject=Visualiza%C3%A7%C3%A3o%20de%20perfil%20no%20GitHub&body=Ol%C3%A1%2C%20tudo%20bem%3F%20Vi%20seu%20perfil%20no%20GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/tiago-gomes-alcântara-1732362b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://discord.gg/92t5ZAbF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>                                                            <a     
-   <a href="https://teams.live.com/l/invite/FAAH0f6ObRtl2RBWQE" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>                   
-</div>
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3E3E3EFF&textBg=false&section=footer" width=100% />
+<details>
+<summary><code>$ ls projetos/</code></summary>
+
+<br>
+
+| Projeto | Resultado em uma linha | Trilha |
+|---|---|---|
+| **Observabilidade de um autorizador de pagamentos** | Da métrica no código Java ao painel no Grafana, para um sistema com 1M+ transações/dia | DevOps · Data |
+| **[MoziCash](https://mozicash.vercel.app)** | App de finanças pessoais que responde "quanto ainda posso gastar este mês?", com agente de IA. Inspirado no meu TCC. React, FastAPI, Supabase | Software · AI |
+| **Skill de IA para documentação técnica** | O padrão de manuais da empresa codificado em uma skill: qualquer pessoa gera o documento no formato aprovado | AI |
+| **[Infraestrutura AWS com Terraform](https://github.com/TiagoAlcan/fase1_devops_fiap_postech)** | Ambiente descrito em código, com documento de arquitetura. Entrega da pós em DevOps e Cloud | DevOps |
+| **Risco de crédito PJ com grafos** | Iniciação científica entre os 30 melhores: a cadeia de suprimentos de cada empresa como peso no modelo | Data · AI |
+| **[projeto_restart](https://github.com/TiagoAlcan/projeto_restart)** | Do consumo de API e scraping até o dashboard interativo | Data |
+
+</details>
+
+<details>
+<summary><code>$ cat stack.yaml</code></summary>
+
+<br>
+
+| Trilha | Uso no trabalho | Estudo e projetos |
+|---|---|---|
+| **Software** | Java, Spring Boot, TypeScript, JavaScript, Vue, SQL, REST | React, Python, FastAPI |
+| **DevOps e Cloud** | Linux, Shell, Docker, Docker Compose, TeamCity, AWS (EC2, S3, MSK, CloudWatch), Proxmox | Kubernetes, Terraform, GitHub Actions |
+| **Observabilidade** | Prometheus, PromQL, Alertmanager, Grafana | OpenTelemetry |
+| **Data** | SQL, Kafka, RabbitMQ | Pandas, NumPy, Scikit-learn, PySpark, bancos de grafos |
+| **AI** | Skills e automações com Claude | Agentes, integração de LLMs em aplicações |
+| **Qualidade** | JMeter, Postman, Insomnia, BDD | JUnit |
+
+</details>
+
+<details>
+<summary><code>$ tail -f estudos.log</code></summary>
+
+<br>
+
+- **Pós-graduação em DevOps e Arquitetura Cloud** (FIAP PosTech) · em andamento. Kubernetes, IaC com Terraform, CI/CD e GitOps, DevSecOps, observabilidade, SRE, FinOps e AIOps.
+- **Bootcamp de Ciência de Dados** (TripleTen) · dez/2025 → dez/2026. Análise de dados, machine learning, deep learning e SQL avançado. [Estudos aqui](https://github.com/TiagoAlcan/Triple-Ten-Data-Science).
+- **Bacharelado em Sistemas de Informação** (FIAP) · 2022 → 2025.
+
+</details>
+
+<details>
+<summary><code>$ man curiosidade</code></summary>
+
+<br>
+
+Coisas que operar um sistema em produção me ensinou a olhar de outro jeito:
+
+- **1 milhão por dia parece muito, mas dá uns 12 por segundo.** A média é tranquila. O que derruba um sistema é o pico, e é por isso que um bom painel mostra taxa por janela de tempo em vez de total do dia.
+- **99,9% de disponibilidade ainda são quase 9 horas fora do ar por ano.** Cada "nove" a mais divide esse tempo por dez: 99,99% são 52 minutos.
+- **A média esconde quem está sofrendo.** Com 1 milhão de requisições por dia, o p99 representa 10 mil requisições diárias mais lentas que aquele valor. Alguém está do outro lado de cada uma.
+- **Reiniciar não é recuperar.** Depois que a máquina volta, os serviços precisam subir na ordem certa. Foi isso que me fez escrever scripts para restabelecer aplicações sozinhas.
+- **Se o painel precisa de explicação, ele é um relatório.** Um dashboard bom responde a uma pergunta em cinco segundos.
+
+</details>
+
+<details>
+<summary><code>$ ./contato.sh</code></summary>
+
+<br>
+
+- E-mail: [tiago.gomesalcan@gmail.com](mailto:tiago.gomesalcan@gmail.com)
+- LinkedIn: [linkedin.com/in/tiagoalcan](https://www.linkedin.com/in/tiagoalcan)
+- Idiomas: português (nativo), inglês (avançado), espanhol (intermediário)
+
+</details>
+
+<br>
+
+```console
+$ uptime
+em produção desde março de 2023 · São Paulo, Brasil
+```
