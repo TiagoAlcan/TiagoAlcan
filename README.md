@@ -13,6 +13,8 @@ One idea ties my work together: **make systems visible**. Dashboards a client ca
 
 My interests sit across software engineering, DevOps and cloud architecture, data engineering and AI engineering.
 
+Currently studying Kubernetes and Terraform in a DevOps and Cloud postgraduate program, and machine learning in a data science bootcamp.
+
 <br clear="right">
 
 ## 🧰 Stack
