@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<img align="right" src="assets/live-metric.gif" width="380" alt="Animated chart of transactions per second flowing through a system (illustrative data)">
+<img align="right" src="assets/tx-per-second.gif" width="380" alt="Animated chart of transactions per second flowing through a system (illustrative data)">
 
 I'm a software engineer at THCS in São Paulo. I'm part of the team that operates a payment authorization system handling **more than 1 million transactions a day**, and my role is mostly on the observability side: the metrics, dashboards and alerts that show what the system is doing.
 
