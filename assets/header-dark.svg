@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 290" width="840" height="290" role="img" aria-labelledby="t d">
+  <title id="t">Tiago Alcântara, Software Engineer</title>
+  <desc id="d">Terminal window: whoami returns Tiago Alcântara, Software Engineer, São Paulo, Brasil. Tracks: software, devops-cloud, data, ai. Motto: make systems visible.</desc>
+  <style>
+    .bg { fill: #04261E; stroke: #F2EDD5; stroke-opacity: .22; }
+    .bar { fill: #084A24; }
+    .bar-text { fill: #F2EDD5; font-size: 13px; }
+    .dot { fill: #F2EDD5; fill-opacity: .55; }
+    .dot-on { fill: #F26716; fill-opacity: 1; }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #F2EDD5; }
+    .p { fill: #F26716; font-weight: 700; }
+    .cmd { fill: #F26716; font-weight: 700; }
+    .name { font-size: 22px; font-weight: 700; fill: #F2EDD5; }
+    .dir { fill: #F26716; font-weight: 700; }
+    .cursor { fill: #F26716; animation: blink 1.1s steps(1) infinite; }
+    .l { opacity: 0; animation: show .01s linear forwards; }
+    .l1 { animation-delay: .2s; } .l2 { animation-delay: .7s; } .l3 { animation-delay: .9s; }
+    .l4 { animation-delay: 1.6s; } .l5 { animation-delay: 2.1s; }
+    .l6 { animation-delay: 2.8s; } .l7 { animation-delay: 3.3s; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .l { opacity: 1; animation: none; }
+      .cursor { animation: none; }
+    }
+  </style>
+
+  <rect class="bg" x="1" y="1" width="838" height="288" rx="12"/>
+  <path class="bar" d="M1 13a12 12 0 0 1 12-12h814a12 12 0 0 1 12 12v25H1z"/>
+  <circle class="dot dot-on" cx="24" cy="20" r="6"/>
+  <circle class="dot" cx="44" cy="20" r="6"/>
+  <circle class="dot" cx="64" cy="20" r="6"/>
+  <text class="bar-text" x="420" y="25" text-anchor="middle">tiago@github: ~</text>
+
+  <text class="l l1" x="28" y="78"><tspan class="p">$</tspan> <tspan class="cmd">whoami</tspan></text>
+  <text class="l l2 name" x="28" y="108">Tiago Alcântara</text>
+  <text class="l l3" x="28" y="132">Software Engineer · São Paulo, Brasil</text>
+
+  <text class="l l4" x="28" y="172"><tspan class="p">$</tspan> <tspan class="cmd">ls tracks/</tspan></text>
+  <text class="l l5 dir" x="28" y="196" xml:space="preserve">software/    devops-cloud/    data/    ai/</text>
+
+  <text class="l l6" x="28" y="236"><tspan class="p">$</tspan> <tspan class="cmd">cat motto.txt</tspan></text>
+  <text class="l l7" x="28" y="260">make systems visible <tspan class="cursor">▍</tspan></text>
+</svg>
